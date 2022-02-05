@@ -1,3 +1,3 @@
 # Cheatsheets
 
-Commands for easy to lookup.
+ Terminals commands for easy to lookup.
