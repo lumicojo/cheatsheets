@@ -1,0 +1,10 @@
+Terminal commands
+
+pwd = print working directory
+ls  = list files
+ls -a = list all files and hidden files
+cd  =change directory
+cd ../ = go up directory
+mkdir folder name = create new folder
+touch file name = create new file
+open file name = open file
