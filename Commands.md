@@ -1,9 +1,12 @@
 # Terminal commands
 
-pwd = print working directory
-ls  = list files
+### my coding folder is below
+### path is: users/lc/desktop/coding
+
+pwd = print working directory (shows path to where you are)
+ls  = list files (show all items in current folder)
 ls -a = list all files and hidden files
-cd  =change directory
+cd  = change directory (change to another folder)
 cd ../ = go up directory
 mkdir folder_name = create new folder
 touch file_name = create new file
