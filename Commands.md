@@ -1,7 +1,7 @@
 # Terminal commands
 
-### my coding folder is below
-### path is: users/lc/desktop/coding
+### my coding cheatsheets folder is below
+### path is: users/lc/desktop/coding/cheatsheets
 
 pwd = print working directory (shows path to where you are)
 ls  = list files (show all items in current folder)
