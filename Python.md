@@ -1,3 +1,7 @@
+# Commands
+python = it opens the Python console
+python alarm.py = run the alarm.py 
+
 # Functions
 
  
