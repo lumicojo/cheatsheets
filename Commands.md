@@ -20,3 +20,4 @@ git commit -m "message" = stage changes
 git push origin main = send changes to git hub
 git pull = pull change from git hub.
 git status = shows last changes you made.
+git add -A = move all file you create in that day to git hub
